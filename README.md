@@ -1749,7 +1749,7 @@ fig.savefig('arvore_credit.png')
 
 
     
-![png](output_82_0.png)
+![png](imagens/output_82_0.png)
     
 
 
